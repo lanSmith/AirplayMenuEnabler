@@ -1,7 +1,7 @@
 # AirplayMenuEnabler
 Small scripts and plist file to config your macOS machine to disable the Displays / Airplay menu from your menu bar when not connected to particular WiFi. 
 
-SETUP:
+SETUP:  
 1. clone repo  
 2. copy .sh files to perment location (ie. ~/.helpers)  
 3. edit 'airplayMenuEnabler.sh' to look for choosen SSID and a local device with static ip on network to ping (ie. gateway / router)  
